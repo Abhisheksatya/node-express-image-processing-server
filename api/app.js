@@ -8,4 +8,3 @@ app.use('/*', (request, response) => {
 });
 
 module.exports = app;
-module.exports=app;
